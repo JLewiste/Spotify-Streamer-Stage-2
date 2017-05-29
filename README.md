@@ -1,4 +1,4 @@
-# Spotify-Streamer-Stage-2
+# Spotify streamer stage 2
 
 ![Pictures](Pictures/spot_tablet.png)
 
